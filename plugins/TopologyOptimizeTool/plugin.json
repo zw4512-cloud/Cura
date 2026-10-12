@@ -1,0 +1,7 @@
+{
+    "name": "Shaft Coupling Topology Optimize",
+    "author": "Tracy",
+    "version": "0.1.0",
+    "description": "Runs the shaft-coupling SIMP topology optimizer (from the shaft-coupling-cylinder-v6 project) against its Flask backend and loads the resulting optimized STL into the scene.",
+    "api": 8
+}
