@@ -1,0 +1,6 @@
+# Install the website requirements first:
+-r requirements_shaft.txt
+
+# Teacher neural-network mode also requires PyTorch.
+# Prefer installing the PyTorch build appropriate for your CUDA/CPU setup from the official PyTorch instructions.
+# The project does not pin a CUDA build here because that depends on the machine.

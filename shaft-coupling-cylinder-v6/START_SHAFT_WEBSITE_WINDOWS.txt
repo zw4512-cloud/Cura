@@ -1,0 +1,18 @@
+SHAFT COUPLING V6 - WINDOWS
+
+1) Open Anaconda Prompt
+2) Go to this folder, for example:
+   cd C:\Users\34258\Desktop\shaft-coupling-cylinder-v6
+3) Activate the website environment:
+   conda activate shaft
+4) Install website dependencies if needed:
+   pip install -r requirements_shaft.txt
+5) Start:
+   python app.py
+6) Open:
+   http://127.0.0.1:18080
+
+Optimization Method options:
+- Shaft SIMP: works with normal website dependencies.
+- Teacher NumPy SIMP: works with NumPy website dependencies.
+- Teacher NN / PyTorch: requires PyTorch in the active environment.
